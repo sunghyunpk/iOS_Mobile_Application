@@ -1,0 +1,17 @@
+Description of our team iOS App
+Team member : 
+Sunghyun Park (shpark92@iu.edu)
+Jae Kwan Kim (jk216@iu.edu)
+Tae Yoon Choi  (choitae@iu.edu)
+
+App name: COVID19 case finder 
+
+Software used: Lucidchart
+
+Our team is going to make iOS App that provide the data of COVID19 patience each countires. 
+Our App will get the data from "https://www.worldometers.info/coronavirus/" this website about the number of patient for each nations.
+There are two buttons, when people open our App. 
+For type button, it will send you the page that you can see the data about COVID19 for each countries. 
+When you type the country name and push the submit button the DATA SCREEN will provide the country's current patients that just you typed. 
+For Auto button, when user press this button, the App will detect your current location, and it will send you the page that present the data of your current counrtry.  
+For PRECAUTION button, it will show you about the important things about COVID19 that you must know about it to prevent it. 

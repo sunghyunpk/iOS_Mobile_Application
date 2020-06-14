@@ -1,0 +1,17 @@
+Sunghyun Park, shpark92 
+We made shrdlu that can conversation with poeple.
+
+Part A
+we made the view part of the App at mainstory board 
+
+Part B
+we add greetting world that when we send text 'hi' or 'hello' shrdlu will response the Hello too.
+Also we added 5 different type of feeling that people can enter, so when poeple entered the words that we represent the 5 different feeling, 
+than the shrdlu will represnet the sentence to us. 
+
+Part C
+Also I made the HistroyViewController so when poeple we sse it, they can see the history of thier conversation.
+
+Discussion and help
+I discussed this homework04 with JaeKwan Kim, Jason Ryu, and Jihoon Ban 
+Also, all of UI and AI gived me lots of advices to solve this Homework. 
